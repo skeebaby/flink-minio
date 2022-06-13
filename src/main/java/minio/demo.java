@@ -1,4 +1,4 @@
-package test;
+package minio;
 
 import io.minio.MinioClient;
 import io.minio.ObjectStat;
